@@ -1,6 +1,5 @@
 module.exports = {
-  extends: ['stylelint-config-standard'],
+  extends: ["stylelint-config-standard"],
   rules: {},
-  ignoreFiles: ['**/node_modules/**', '**/dist/**', '**/build/**']
+  ignoreFiles: ["**/node_modules/**", "**/dist/**", "**/build/**"],
 };
-
