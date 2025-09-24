@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-      <button onClick={fetchHello}>APIを呼び出すよ</button>
+      <button onClick={fetchHello}>あいさつする</button>
       {hello && <p>{hello}</p>}
     </>
   );

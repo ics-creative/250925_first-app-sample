@@ -1,4 +1,4 @@
-# 251002_first-app-sample
+# 250925_first-app-sample
 
 ICS MEDIA「若手フロントエンドエンジニアのためのバックエンド入門（前編）」のサンプルコードです。
 
